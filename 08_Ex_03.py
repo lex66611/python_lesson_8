@@ -21,3 +21,5 @@ while True:
     except KeyboardInterrupt:
         print(f"\nСписок чисел = {numbers}")
         break
+
+#Завершено

@@ -25,3 +25,5 @@ while True:
         print("еление на ноль невозможно")
     except KeyboardInterrupt:
         break
+
+#Завершено

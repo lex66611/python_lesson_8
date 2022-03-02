@@ -26,3 +26,5 @@ my_date = Date('17-02-2022')
 # my_date = Date('17-00-2022')  # error
 # my_date = Date('17-13-2022')  # error
 # my_date = Date('17-02-2101')  # error
+
+#Завершено
